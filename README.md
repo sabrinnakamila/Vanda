@@ -85,7 +85,7 @@
 |---------|--------|-------|
 | 📃 Makalah | PDF | [Unduh Makalah](Files/Paper.pdf) |
 | 🖼️ Presentation | PDF | [Unduh Presentasi](Files/Presentation.pdf) |
-| 🖼️ Poster | PNG | [Unduh Poster](Files/Poster.png) |
+| 🖼️ Poster | PNG | [Unduh Poster](File/poster.png) |
 
 ---
 
