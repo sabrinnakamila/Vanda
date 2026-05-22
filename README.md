@@ -83,8 +83,8 @@
 
 | Dokumen | Format | Unduh |
 |---------|--------|-------|
-| 📃 Makalah | PDF | [Unduh Makalah](Files/paper.pdf) |
-| 🖼️ Presentation | PDF | [Unduh Presentasi](Files/presentation.pptx) |
+| 📃 Makalah | PDF | [Unduh Makalah](File/paper.pdf) |
+| 🖼️ Presentation | PDF | [Unduh Presentasi](File/presentation.pptx) |
 | 🖼️ Poster | PNG | [Unduh Poster](File/poster.png) |
 
 ---
